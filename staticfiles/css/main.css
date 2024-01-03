@@ -2,3 +2,14 @@ body{
     background-color: #f8f8f8!important;
 }
 
+#portfolio-wrapper {
+    text-align: center;
+}
+
+#portfolio-pic {
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
